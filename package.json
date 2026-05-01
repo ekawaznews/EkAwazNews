@@ -1,0 +1,17 @@
+{
+  "name": "ek-awaz-auto-publisher",
+  "version": "1.0.0",
+  "description": "Automated news publisher for Ek Awaz News",
+  "main": "autopost.js",
+  "scripts": {
+    "start": "node autopost.js",
+    "test": "node autopost.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "sharp": "^0.33.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
