@@ -2,17 +2,17 @@ name: Ek Awaz Auto-Publisher
 
 on:
   schedule:
-    - cron: '0 1 * * *'   # 06:00 PKT — politics, government, sports
-    - cron: '0 7 * * *'   # 12:00 PKT — international, entertainment, economy, education
-    - cron: '0 13 * * *'  # 18:00 PKT — weather, social, 3x Urdu
-  workflow_dispatch:       # Manual trigger from GitHub Actions tab
+    - cron: '0 1 * * *'   # 06:00 PKT
+    - cron: '0 7 * * *'   # 12:00 PKT
+    - cron: '0 13 * * *'  # 18:00 PKT
+  workflow_dispatch:
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     permissions:
-      contents: write      # Needed to push article HTML pages
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -33,6 +33,7 @@ jobs:
           GEMINI_API_KEY:            ${{ secrets.GEMINI_API_KEY }}
           CLOUDINARY_CLOUD_NAME:     ${{ secrets.CLOUDINARY_CLOUD_NAME }}
           CLOUDINARY_UPLOAD_PRESET:  ${{ secrets.CLOUDINARY_UPLOAD_PRESET }}
+          GITHUB_EVENT_NAME:         ${{ github.event_name }}
         run: node autopost.js
 
       - name: Commit and push article pages
@@ -42,4 +43,3 @@ jobs:
           git add news/
           git diff --cached --quiet || git commit -m "Auto-publish: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
-          
