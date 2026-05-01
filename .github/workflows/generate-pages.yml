@@ -1,1 +1,36 @@
+name: Ek Awaz Page Generator
 
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  workflow_dispatch:         # Manual trigger anytime
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run page generator
+        run: node generate-pages.js
+
+      - name: Commit and push new pages
+        run: |
+          git config user.name "Ek Awaz Bot"
+          git config user.email "bot@ekawaznews.github.io"
+          git add news/
+          git diff --cached --quiet || git commit -m "Page sync: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+          
