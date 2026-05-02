@@ -9,15 +9,17 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Setup Node.js 22
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Install packages
         run: npm install
@@ -32,3 +34,11 @@ jobs:
           CLOUDINARY_PRESET: ${{ secrets.CLOUDINARY_UPLOAD_PRESET }}
           WATERMARK_URL:     ${{ secrets.WATERMARK_URL }}
         run: node autopost.js
+
+      - name: Commit and push article pages
+        run: |
+          git config user.name "Ek Awaz Bot"
+          git config user.email "bot@ekawaznews.github.io"
+          git add news/ || true
+          git diff --cached --quiet || git commit -m "Auto-publish: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push || true
