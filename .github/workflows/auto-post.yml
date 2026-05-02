@@ -2,10 +2,15 @@ name: Ek Awaz Auto-Publisher
 
 on:
   schedule:
-    - cron: '0 1 * * *'   # 06:00 PKT
-    - cron: '0 7 * * *'   # 12:00 PKT
-    - cron: '0 13 * * *'  # 18:00 PKT
+    - cron: '0 1 * * *'    # 06:00 PKT — batch A
+    - cron: '0 7 * * *'    # 12:00 PKT — batch B
+    - cron: '0 13 * * *'   # 18:00 PKT — batch C
   workflow_dispatch:
+    inputs:
+      batch:
+        description: 'Batch to run (A, B, or C)'
+        required: false
+        default: 'A'
 
 jobs:
   publish:
@@ -28,12 +33,27 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Determine batch
+        id: batch
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "BATCH=${{ github.event.inputs.batch }}" >> $GITHUB_ENV
+          else
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" -ge 0 ] && [ "$HOUR" -lt 5 ]; then
+              echo "BATCH=A" >> $GITHUB_ENV
+            elif [ "$HOUR" -ge 5 ] && [ "$HOUR" -lt 11 ]; then
+              echo "BATCH=B" >> $GITHUB_ENV
+            else
+              echo "BATCH=C" >> $GITHUB_ENV
+            fi
+          fi
+
       - name: Run auto-publisher
         env:
-          GEMINI_API_KEY:            ${{ secrets.GEMINI_API_KEY }}
-          CLOUDINARY_CLOUD_NAME:     ${{ secrets.CLOUDINARY_CLOUD_NAME }}
-          CLOUDINARY_UPLOAD_PRESET:  ${{ secrets.CLOUDINARY_UPLOAD_PRESET }}
-          GITHUB_EVENT_NAME:         ${{ github.event_name }}
+          GEMINI_API_KEY:           ${{ secrets.GEMINI_API_KEY }}
+          CLOUDINARY_CLOUD_NAME:    ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_UPLOAD_PRESET: ${{ secrets.CLOUDINARY_UPLOAD_PRESET }}
         run: node autopost.js
 
       - name: Commit and push article pages
