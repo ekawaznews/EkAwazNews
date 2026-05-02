@@ -1,1 +1,25 @@
+name: Fix Existing Posts
+
+on:
+  workflow_dispatch:  # Run once manually
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install packages
+        run: npm install
+
+      - name: Run fix script
+        run: node fix-existing-posts.js
 
