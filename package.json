@@ -1,11 +1,9 @@
 {
-  "name": "ekawaz-auto-publisher",
+  "name": "ekawaz-news",
   "version": "2.0.0",
-  "description": "Ek Awaz News — Hourly auto news publisher",
-  "main": "auto-publisher.js",
   "type": "module",
   "scripts": {
-    "start": "node auto-publisher.js"
+    "start": "node autopost.js"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
