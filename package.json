@@ -1,17 +1,16 @@
 {
-  "name": "ek-awaz-auto-publisher",
-  "version": "1.0.0",
-  "description": "Automated news publisher for Ek Awaz News",
-  "main": "autopost.js",
+  "name": "ekawaz-auto-publisher",
+  "version": "2.0.0",
+  "description": "Ek Awaz News — Hourly auto news publisher",
+  "main": "auto-publisher.js",
+  "type": "module",
   "scripts": {
-    "start": "node autopost.js",
-    "test": "node autopost.js"
+    "start": "node auto-publisher.js"
   },
   "dependencies": {
-    "rss-parser": "^3.13.0",
-    "sharp": "^0.33.4"
+    "node-fetch": "^3.3.2"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=18.0.0"
   }
 }
