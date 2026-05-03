@@ -1,0 +1,59 @@
+name: Ek Awaz Auto Publisher v6
+
+on:
+  schedule:
+    - cron: '0 * * * *'    # Every hour at :00
+  workflow_dispatch:         # Manual Run button
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    permissions:
+      contents: write        # Needed to commit news/ pages back to repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install packages
+        run: npm install
+
+      # ── STEP 1: Publish new articles to Firebase ──────────────
+      - name: Run Auto Publisher
+        env:
+          GEMINI_API_KEY:    ${{ secrets.GEMINI_API_KEY }}
+          NEWSAPI_KEY:       ${{ secrets.NEWSAPI_KEY }}
+          GNEWS_KEY:         ${{ secrets.GNEWS_KEY }}
+          WEATHERAPI_KEY:    ${{ secrets.WEATHERAPI_KEY }}
+          CLOUDINARY_CLOUD:  ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_PRESET: ${{ secrets.CLOUDINARY_UPLOAD_PRESET }}
+          WATERMARK_URL:     ${{ secrets.WATERMARK_URL }}
+        run: node autopost.js
+
+      # ── STEP 2: Generate individual HTML pages ────────────────
+      - name: Generate Article Pages
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node generate-pages.js
+
+      # ── STEP 3: Update sitemaps ────────────────────────────────
+      - name: Generate Sitemaps
+        run: node generate-sitemap.js
+
+      # ── STEP 4: Commit all changes back to GitHub ─────────────
+      - name: Commit and Push
+        run: |
+          git config --global user.name  "Ek Awaz Bot"
+          git config --global user.email "ekawaznews24@gmail.com"
+          git add news/ sitemap.xml news-sitemap.xml || true
+          git diff --staged --quiet || git commit -m "🗞️ Auto-publish $(date +'%Y-%m-%d %H:%M') PKT — Umer Javed"
+          git push origin main || echo "Nothing new to push"
