@@ -4,6 +4,36 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://ekawaznews.github.io/news/with-this-club-to-the-death-vinicius-junior-makes-emotional-vow-to-r-1777932603497.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T22:10:03.430Z</news:publication_date>
+      <news:title>With this club to the death - Vinicius Junior makes emotional vow to R</news:title>
+      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-04T22:10:03.430Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ekawaznews.github.io/news/with-this-club-to-the-death-vinicius-junior-makes-emotional-vow-to-r-1777932596082.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T22:09:55.328Z</news:publication_date>
+      <news:title>With this club to the death - Vinicius Junior makes emotional vow to R</news:title>
+      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-04T22:09:55.328Z</lastmod>
+  </url>
+  <url>
     <loc>https://ekawaznews.github.io/news/us-hands-over-22-crew-members-of-seized-iranian-ship-to-pakistan-1777926172870.html</loc>
     <news:news>
       <news:publication>
@@ -1232,275 +1262,5 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-02T22:41:56.892Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/trump-says-us-navy-like-pirates-while-seizing-a-ship-in-iranian-bloc-1777758103884.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T21:41:43.884Z</news:publication_date>
-      <news:title>Trump says US navy like ‘pirates’ while seizing a ship in Iranian bloc</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T21:41:43.884Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/hyderabad-kingsmen-pacer-mohammad-ali-fined-for-breach-in-eliminator-w-1777758098728.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T21:41:38.728Z</news:publication_date>
-      <news:title>Hyderabad Kingsmen pacer Mohammad Ali fined for breach in Eliminator w</news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T21:41:38.728Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/workers-around-the-world-demonstrate-on-may-day-in-photos-ap-news-1777758083060.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T21:41:23.060Z</news:publication_date>
-      <news:title>Workers around the world demonstrate on May Day, in photos - AP News</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T21:41:23.060Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/live-updates-trump-not-satisfied-with-new-peace-deal-offered-by-ira-1777758077830.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T21:41:17.830Z</news:publication_date>
-      <news:title>Live Updates: Trump &quot;not satisfied&quot; with new peace deal offered by Ira</news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T21:41:17.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/riyadh-weather-today-clear-27c-1777758072631.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T21:41:12.631Z</news:publication_date>
-      <news:title>Riyadh Weather Today: Clear, 27°C</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T21:41:12.631Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/trump-says-hell-place-25-tariff-on-autos-from-the-eu-accusing-it-of-1777758067433.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T21:41:07.433Z</news:publication_date>
-      <news:title>Trump says he'll place 25% tariff on autos from the EU, accusing it of</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T21:41:07.433Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/tour-stars-branded-selfish-as-liv-golf-bombshell-escalates-tensions-1777758062163.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T21:41:02.163Z</news:publication_date>
-      <news:title>Tour stars branded 'SELFISH' as LIV Golf bombshell escalates tensions </news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T21:41:02.163Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/young-races-clear-of-the-pack-at-the-cadillac-1777758056862.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T21:40:56.862Z</news:publication_date>
-      <news:title>Young races clear of the pack at the Cadillac</news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T21:40:56.862Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/sp-500-closes-at-a-new-record-to-usher-in-may-as-oil-prices-cool-and-1777758051696.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T21:40:51.696Z</news:publication_date>
-      <news:title>S&amp;P 500 closes at a new record to usher in May as oil prices cool and </news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T21:40:51.696Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/body-found-in-tampa-bay-identified-as-2nd-missing-university-of-south-1777758046526.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T21:40:46.526Z</news:publication_date>
-      <news:title>Body found in Tampa Bay identified as 2nd missing University of South </news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T21:40:46.526Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/dar-reaffirms-pakistans-commitment-to-peace-in-call-with-kuwaiti-fm-1777758034504.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T21:40:34.504Z</news:publication_date>
-      <news:title>Dar reaffirms Pakistan's commitment to peace in call with Kuwaiti FM</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T21:40:34.504Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/jannik-sinner-remains-on-course-for-masters-1000-history-after-reachin-1777755113399.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T20:51:53.399Z</news:publication_date>
-      <news:title>Jannik Sinner remains on course for Masters 1000 history after reachin</news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T20:51:53.399Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/apple-was-caught-off-guard-by-macbook-neos-off-the-charts-demand-1777755108184.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T20:51:48.184Z</news:publication_date>
-      <news:title>Apple Was Caught Off Guard by MacBook Neo's 'Off the Charts' Demand - </news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T20:51:48.184Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/samsung-one-ui-85-update-missing-why-galaxy-users-are-still-waiting-1777755097677.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T20:51:37.677Z</news:publication_date>
-      <news:title>Samsung One UI 8.5 Update Missing: Why Galaxy Users Are Still Waiting </news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T20:51:37.677Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/pm-shehbaz-felicitates-iraqs-new-premier-vows-stronger-bilateral-tie-1777755080960.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T20:51:20.960Z</news:publication_date>
-      <news:title>PM Shehbaz felicitates Iraq’s new premier, vows stronger bilateral tie</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T20:51:20.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/iran-us-war-ceasefire-live-updates-iran-says-war-will-likely-resume-1777755075742.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T20:51:15.742Z</news:publication_date>
-      <news:title>Iran-US War Ceasefire Live Updates: Iran says war will ‘likely’ resume</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T20:51:15.742Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/fed-chair-jerome-powell-and-the-fomc-just-updated-their-interest-rate-1777755065222.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T20:51:05.222Z</news:publication_date>
-      <news:title>Fed Chair Jerome Powell and the FOMC Just Updated Their Interest Rate </news:title>
-      <news:keywords>Government, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T20:51:05.222Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/trump-says-spirit-airlines-may-get-an-america-first-rescue-forbes-1777755059897.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T20:50:59.897Z</news:publication_date>
-      <news:title>Trump Says Spirit Airlines May Get An ‘America First’ Rescue - Forbes</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T20:50:59.897Z</lastmod>
   </url>
 </urlset>
