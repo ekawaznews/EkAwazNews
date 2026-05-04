@@ -1,9 +1,9 @@
-name: Ek Awaz Auto Publisher v6
+name: Ek Awaz Auto Publisher v7
 
 on:
   schedule:
-    - cron: '0 * * * *'    # Every hour at :00
-  workflow_dispatch:         # Manual Run button
+    - cron: '0 * * * *'    # Every hour
+  workflow_dispatch:         # Manual button
 
 jobs:
   publish:
@@ -11,10 +11,10 @@ jobs:
     timeout-minutes: 30
 
     permissions:
-      contents: write        # Needed to commit news/ pages back to repo
+      contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -27,8 +27,8 @@ jobs:
       - name: Install packages
         run: npm install
 
-      # ── STEP 1: Publish new articles to Firebase ──────────────
-      - name: Run Auto Publisher
+      # STEP 1: Publish new articles to Firebase
+      - name: Auto Publisher
         env:
           GEMINI_API_KEY:    ${{ secrets.GEMINI_API_KEY }}
           NEWSAPI_KEY:       ${{ secrets.NEWSAPI_KEY }}
@@ -39,21 +39,19 @@ jobs:
           WATERMARK_URL:     ${{ secrets.WATERMARK_URL }}
         run: node autopost.js
 
-      # ── STEP 2: Generate individual HTML pages ────────────────
+      # STEP 2: Generate individual HTML pages
       - name: Generate Article Pages
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node generate-pages.js
 
-      # ── STEP 3: Update sitemaps ────────────────────────────────
+      # STEP 3: Update sitemaps
       - name: Generate Sitemaps
         run: node generate-sitemap.js
 
-      # ── STEP 4: Commit all changes back to GitHub ─────────────
+      # STEP 4: Commit pages + sitemaps back to repo
       - name: Commit and Push
         run: |
           git config --global user.name  "Ek Awaz Bot"
           git config --global user.email "ekawaznews24@gmail.com"
           git add news/ sitemap.xml news-sitemap.xml || true
-          git diff --staged --quiet || git commit -m "🗞️ Auto-publish $(date +'%Y-%m-%d %H:%M') PKT — Umer Javed"
-          git push origin main || echo "Nothing new to push"
+          git diff --staged --quiet || git commit -m "🗞️ Auto $(date +'%Y-%m-%d %H:%M') PKT — Umer Javed"
+          git push origin main || echo "Nothing to push"
