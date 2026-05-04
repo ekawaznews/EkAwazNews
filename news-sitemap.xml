@@ -4,6 +4,51 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://ekawaznews.github.io/news/us-hands-over-22-crew-members-of-seized-iranian-ship-to-pakistan-1777926172870.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T20:22:52.125Z</news:publication_date>
+      <news:title>US hands over 22 crew members of seized Iranian ship to Pakistan</news:title>
+      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-04T20:22:52.125Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ekawaznews.github.io/news/study-reveals-ozempic-cuts-depression-risk-by-44-1777926160108.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T20:22:39.397Z</news:publication_date>
+      <news:title>Study reveals Ozempic cuts depression risk by 44%</news:title>
+      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-04T20:22:39.397Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ekawaznews.github.io/news/scientists-just-discovered-what-coffee-is-really-doing-to-your-gut-and-1777926141329.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T20:22:21.233Z</news:publication_date>
+      <news:title>Scientists just discovered what coffee is really doing to your gut and</news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-04T20:22:21.233Z</lastmod>
+  </url>
+  <url>
     <loc>https://ekawaznews.github.io/news/ship-is-attacked-near-strait-of-hormuz-as-iran-reviews-us-response-to-1777918934436.html</loc>
     <news:news>
       <news:publication>
@@ -1457,305 +1502,5 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-02T20:50:59.897Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/a-deadline-for-the-iran-war-is-here-what-does-the-war-powers-act-say-1777751908849.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:58:28.849Z</news:publication_date>
-      <news:title>A deadline for the Iran war is here. What does the War Powers Act say?</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:58:28.849Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/sialkot-weather-today-clear-27c-1777751897522.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:58:17.522Z</news:publication_date>
-      <news:title>Sialkot Weather Today: Clear, 27°C</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:58:17.522Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/audible-opens-first-bookless-bookstore-in-new-york-city-1777751892005.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:58:12.005Z</news:publication_date>
-      <news:title>Audible opens first ‘Bookless Bookstore’ in New York City</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:58:12.005Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/germany-needs-no-tips-from-donald-trump-says-merzs-deputy-dwcom-1777751886445.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:58:06.445Z</news:publication_date>
-      <news:title>Germany needs no tips from Donald Trump, says Merz's deputy - dw.com</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:58:06.445Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/3-things-to-watch-in-lakers-rockets-game-6-nba-1777751880918.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:58:00.918Z</news:publication_date>
-      <news:title>3 things to watch in Lakers-Rockets Game 6 - NBA</news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:58:00.918Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/academy-makes-seismic-oscar-rule-changes-for-acting-international-fi-1777751875396.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:57:55.396Z</news:publication_date>
-      <news:title>Academy Makes Seismic Oscar Rule Changes For Acting &amp; International Fi</news:title>
-      <news:keywords>Entertainment, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:57:55.396Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/top-ai-companies-agree-to-work-with-pentagon-on-secret-data-the-wash-1777751864280.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:57:44.280Z</news:publication_date>
-      <news:title>Top AI companies agree to work with Pentagon on secret data - The Wash</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:57:44.280Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/hunain-shah-bowls-sensational-3-run-last-over-to-lift-psl-debutant-hyd-1777751858732.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:57:38.732Z</news:publication_date>
-      <news:title>Hunain Shah bowls sensational 3-run last over to lift PSL debutant Hyd</news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:57:38.732Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/ella-langley-talked-taylor-swift-teyana-taylor-hugged-everybody-and-s-1777751853195.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:57:33.195Z</news:publication_date>
-      <news:title>Ella Langley talked Taylor Swift, Teyana Taylor hugged everybody and S</news:title>
-      <news:keywords>Entertainment, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:57:33.195Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/trump-says-he-will-hike-tariffs-on-eu-cars-to-25-bbc-1777751847627.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:57:27.628Z</news:publication_date>
-      <news:title>Trump says he will hike tariffs on EU cars to 25% - BBC</news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:57:27.628Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/iran-military-official-says-renewed-war-with-us-likely-1777751840884.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:57:20.884Z</news:publication_date>
-      <news:title>Iran military official says renewed war with US 'likely'</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:57:20.884Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/peshawar-gets-new-road-project-worth-rs-2-billion-1777751835295.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:57:15.295Z</news:publication_date>
-      <news:title>Peshawar Gets New Road Project Worth Rs. 2 Billion</news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:57:15.295Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/hyderabad-weather-today-clear-31c-1777748441814.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:00:41.814Z</news:publication_date>
-      <news:title>Hyderabad Weather Today: Clear, 31°C</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:00:41.814Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/seniority-list-changes-after-transfer-of-three-judges-in-ihc-1777748436638.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:00:36.638Z</news:publication_date>
-      <news:title>Seniority list changes after transfer of three judges in IHC</news:title>
-      <news:keywords>Government, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:00:36.638Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/pms-apna-ghar-scheme-may-meet-a-constitutional-blockade-1777748426368.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:00:26.368Z</news:publication_date>
-      <news:title>PM's Apna Ghar scheme may meet a 'constitutional blockade'</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:00:26.368Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/bookless-bookstore-audio-only-book-shop-opens-in-new-york-1777748421175.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:00:21.175Z</news:publication_date>
-      <news:title>'Bookless bookstore': Audio-only book shop opens in New York</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:00:21.175Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/karachi-weather-today-mist-30c-1777748415883.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:00:15.883Z</news:publication_date>
-      <news:title>Karachi Weather Today: Mist, 30°C</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:00:15.883Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/havana-trumps-sanctions-inflict-collective-punishment-on-the-cuban-1777748405381.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:00:05.381Z</news:publication_date>
-      <news:title>Havana: Trump’s sanctions inflict ‘collective punishment’ on the Cuban</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:00:05.381Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/dubai-weather-today-clear-34c-1777748400179.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:00:00.179Z</news:publication_date>
-      <news:title>Dubai Weather Today: Clear, 34°C</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:00:00.179Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/these-10-new-games-made-the-most-money-in-2026-1777748394972.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T18:59:54.972Z</news:publication_date>
-      <news:title>These 10 New Games Made The Most Money in 2026</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T18:59:54.972Z</lastmod>
   </url>
 </urlset>
