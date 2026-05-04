@@ -4,6 +4,36 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://ekawaznews.github.io/news/washington-mothers-final-moments-captured-on-horrific-911-call-hes-go-1777880721767.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T07:45:21.168Z</news:publication_date>
+      <news:title>Washington mothers final moments captured on horrific 911 call: Hes go</news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-04T07:45:21.168Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ekawaznews.github.io/news/germany-says-us-troop-withdrawal-anticipated-spain-and-italy-could-1777880710621.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T07:45:09.796Z</news:publication_date>
+      <news:title>Germany says U.S. troop withdrawal ‘anticipated, Spain and Italy could</news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-04T07:45:09.796Z</lastmod>
+  </url>
+  <url>
     <loc>https://ekawaznews.github.io/news/german-fm-in-call-with-iranian-counterpart-demands-hormuz-reopening-1777867217991.html</loc>
     <news:news>
       <news:publication>
@@ -49,21 +79,6 @@
     <lastmod>2026-05-03T15:48:30.313Z</lastmod>
   </url>
   <url>
-    <loc>https://ekawaznews.github.io/news/court-restricts-abortion-access-across-the-us-by-blocking-the-mailing-1777823310313.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T15:48:30.313Z</news:publication_date>
-      <news:title>Court restricts abortion access across the US by blocking the mailing </news:title>
-      <news:keywords>Government, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T15:48:30.313Z</lastmod>
-  </url>
-  <url>
     <loc>https://ekawaznews.github.io/news/pakistans-first-zombie-horror-film-zombeid-sparks-nationwide-buzz-1777823301279.html</loc>
     <news:news>
       <news:publication>
@@ -77,36 +92,6 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-03T15:48:21.279Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/pakistans-first-zombie-horror-film-zombeid-sparks-nationwide-buzz-1777823301279.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T15:48:21.279Z</news:publication_date>
-      <news:title>Pakistan’s first zombie horror film ‘Zombeid’ sparks nationwide buzz</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T15:48:21.279Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/the-15th-anniversary-of-the-killing-of-osama-bin-laden-1777823294592.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T15:48:14.592Z</news:publication_date>
-      <news:title>The 15th Anniversary of the Killing of Osama bin Laden</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T15:48:14.592Z</lastmod>
   </url>
   <url>
     <loc>https://ekawaznews.github.io/news/the-15th-anniversary-of-the-killing-of-osama-bin-laden-1777823294592.html</loc>
@@ -122,21 +107,6 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-03T15:48:14.592Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/renewed-war-with-us-still-possible-says-iran-1777819827012.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T14:50:27.012Z</news:publication_date>
-      <news:title>Renewed war with US still possible, says Iran</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T14:50:27.012Z</lastmod>
   </url>
   <url>
     <loc>https://ekawaznews.github.io/news/renewed-war-with-us-still-possible-says-iran-1777819827012.html</loc>
@@ -169,36 +139,6 @@
     <lastmod>2026-05-03T14:50:18.144Z</lastmod>
   </url>
   <url>
-    <loc>https://ekawaznews.github.io/news/abbottabad-weather-report-today-mist-temperature-32c-1777819818144.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T14:50:18.144Z</news:publication_date>
-      <news:title>Abbottabad Weather Report Today: Mist, Temperature 32°C</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T14:50:18.144Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/new-netflix-documentary-reexamines-winnie-mandelas-divisive-legacy-n-1777819798972.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T14:49:58.973Z</news:publication_date>
-      <news:title>New Netflix documentary reexamines Winnie Mandelas divisive legacy - N</news:title>
-      <news:keywords>Entertainment, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T14:49:58.973Z</lastmod>
-  </url>
-  <url>
     <loc>https://ekawaznews.github.io/news/new-netflix-documentary-reexamines-winnie-mandelas-divisive-legacy-n-1777819798972.html</loc>
     <news:news>
       <news:publication>
@@ -227,36 +167,6 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-03T11:43:02.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/spirit-airlines-ceases-operations-after-escalating-financial-struggles-1777808582960.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T11:43:02.960Z</news:publication_date>
-      <news:title>Spirit Airlines ceases operations after escalating financial struggles</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T11:43:02.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/young-stretches-pga-lead-to-six-at-doral-1777808543008.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T11:42:23.008Z</news:publication_date>
-      <news:title>Young stretches PGA lead to six at Doral</news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T11:42:23.008Z</lastmod>
   </url>
   <url>
     <loc>https://ekawaznews.github.io/news/young-stretches-pga-lead-to-six-at-doral-1777808543008.html</loc>
@@ -302,21 +212,6 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-03T10:05:16.557Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/tennessee-and-alabama-take-steps-to-redraw-house-maps-in-wake-of-supre-1777798012722.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T08:46:52.722Z</news:publication_date>
-      <news:title>Tennessee and Alabama take steps to redraw House maps in wake of Supre</news:title>
-      <news:keywords>Government, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T08:46:52.722Z</lastmod>
   </url>
   <url>
     <loc>https://ekawaznews.github.io/news/tennessee-and-alabama-take-steps-to-redraw-house-maps-in-wake-of-supre-1777798012722.html</loc>
@@ -559,21 +454,6 @@
     <lastmod>2026-05-03T02:55:32.362Z</lastmod>
   </url>
   <url>
-    <loc>https://ekawaznews.github.io/news/nicole-kidman-leaves-friends-worried-concerned-about-her-new-romance-1777776932362.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:55:32.362Z</news:publication_date>
-      <news:title>Nicole Kidman leaves friends worried concerned about her new romance</news:title>
-      <news:keywords>Entertainment, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:55:32.362Z</lastmod>
-  </url>
-  <url>
     <loc>https://ekawaznews.github.io/news/trump-says-iran-conflict-is-terminated-as-he-hits-congressional-dead-1777776926043.html</loc>
     <news:news>
       <news:publication>
@@ -604,21 +484,6 @@
     <lastmod>2026-05-03T02:55:13.480Z</lastmod>
   </url>
   <url>
-    <loc>https://ekawaznews.github.io/news/ban-vs-nz-3rd-t20i-bevon-jacobs-stars-as-new-zealand-bounce-back-to-1777776913480.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:55:13.480Z</news:publication_date>
-      <news:title>BAN vs NZ, 3rd T20I: Bevon Jacobs stars as New Zealand bounce back to </news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:55:13.480Z</lastmod>
-  </url>
-  <url>
     <loc>https://ekawaznews.github.io/news/princess-eugenie-is-pregnant-expecting-third-baby-1777776905926.html</loc>
     <news:news>
       <news:publication>
@@ -632,21 +497,6 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-03T02:55:05.926Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/official-weigh-in-results-ufc-perth-ufccom-1777776899668.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:54:59.668Z</news:publication_date>
-      <news:title>Official Weigh-In Results | UFC Perth - UFC.com</news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:54:59.668Z</lastmod>
   </url>
   <url>
     <loc>https://ekawaznews.github.io/news/official-weigh-in-results-ufc-perth-ufccom-1777776899668.html</loc>
@@ -1502,21 +1352,6 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-02T19:58:00.918Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/academy-makes-seismic-oscar-rule-changes-for-acting-international-fi-1777751875396.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T19:57:55.396Z</news:publication_date>
-      <news:title>Academy Makes Seismic Oscar Rule Changes For Acting &amp; International Fi</news:title>
-      <news:keywords>Entertainment, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T19:57:55.396Z</lastmod>
   </url>
   <url>
     <loc>https://ekawaznews.github.io/news/academy-makes-seismic-oscar-rule-changes-for-acting-international-fi-1777751875396.html</loc>
