@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://ekawaznews.github.io/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://ekawaznews.github.io/about.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://ekawaznews.github.io/contact.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+
+  <!-- Privacy -->
+  <url>
+    <loc>https://ekawaznews.github.io/privacy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+
+</urlset>
