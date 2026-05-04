@@ -4,6 +4,36 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://ekawaznews.github.io/news/ship-is-attacked-near-strait-of-hormuz-as-iran-reviews-us-response-to-1777918934436.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T18:22:13.999Z</news:publication_date>
+      <news:title>Ship is attacked near Strait of Hormuz as Iran reviews US response to </news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-04T18:22:13.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ekawaznews.github.io/news/jake-paul-reacts-to-olivia-rodrigos-snl-career-diss-1777918926178.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-04T18:22:05.714Z</news:publication_date>
+      <news:title>Jake Paul Reacts to Olivia Rodrigo’s SNL Career Diss</news:title>
+      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-04T18:22:05.714Z</lastmod>
+  </url>
+  <url>
     <loc>https://ekawaznews.github.io/news/iran-warns-of-ceasefire-violation-as-us-plans-to-escort-hormuz-ships-1777913665288.html</loc>
     <news:news>
       <news:publication>
@@ -1727,380 +1757,5 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-02T18:59:54.972Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/zayn-malik-cancels-all-us-tour-dates-variety-1777743853381.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:44:13.381Z</news:publication_date>
-      <news:title>Zayn Malik Cancels All U.S. Tour Dates - Variety</news:title>
-      <news:keywords>Entertainment, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:44:13.381Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/the-devil-wears-prada-2-strikes-a-pose-thursday-night-with-10m-prev-1777743848019.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:44:08.020Z</news:publication_date>
-      <news:title>‘The Devil Wears Prada 2’ Strikes A Pose Thursday Night With $10M Prev</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:44:08.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/ankara-weather-today-partly-cloudy-6c-1777743842506.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:44:02.506Z</news:publication_date>
-      <news:title>Ankara Weather Today: Partly cloudy, 6°C</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:44:02.506Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/rawalpindi-weather-today-patchy-rain-nearby-25c-1777743837113.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:43:57.113Z</news:publication_date>
-      <news:title>Rawalpindi Weather Today: Patchy rain nearby, 25°C</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:43:57.113Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/trump-says-us-will-take-over-cuba-almost-immediately-1777743831623.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:43:51.623Z</news:publication_date>
-      <news:title>Trump says US will take over Cuba 'almost immediately'</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:43:51.623Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/live-2026-f1-miami-grand-prix-free-practice-racingnews365com-1777743826279.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:43:46.279Z</news:publication_date>
-      <news:title>LIVE: 2026 F1 Miami Grand Prix - Free Practice - racingnews365.com</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:43:46.279Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/trump-says-us-navy-acting-like-pirates-to-carry-out-naval-blockade-o-1777743819639.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:43:39.639Z</news:publication_date>
-      <news:title>Trump says US Navy acting 'like pirates' to carry out naval blockade o</news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:43:39.639Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/way-of-the-sword-release-date-1777743814224.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:43:34.224Z</news:publication_date>
-      <news:title>Way of the Sword Release Date</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:43:34.224Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/artemis-ii-crew-reveals-what-they-ate-right-after-splashdown-i-got-s-1777743808737.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:43:28.737Z</news:publication_date>
-      <news:title>Artemis II crew reveals what they ate right after splashdown: &quot;I got s</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:43:28.737Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/heroin-worth-over-rs-6-crore-recovered-in-panchkula-bca-graduate-arre-1777743802049.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:43:22.050Z</news:publication_date>
-      <news:title>Heroin worth over Rs 6 crore recovered in Panchkula, BCA graduate arre</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:43:22.050Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/london-weather-today-light-rain-17c-1777743796725.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:43:16.725Z</news:publication_date>
-      <news:title>London Weather Today: Light rain, 17°C</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:43:16.725Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-dem-1777743481567.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:38:01.567Z</news:publication_date>
-      <news:title>Apple may take &quot;several months&quot; to catch up to Mac mini and Studio dem</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:38:01.567Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/its-a-boy-influencer-julia-mcguire-welcomes-first-baby-with-jackie-l-1777743474996.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:37:54.996Z</news:publication_date>
-      <news:title>It's a boy! Influencer Julia McGuire welcomes first baby with Jackie L</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:37:54.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/several-states-and-the-la-public-schools-are-setting-limits-on-scr-1777743469535.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:37:49.535Z</news:publication_date>
-      <news:title>Several states — and the LA public schools — are setting limits on scr</news:title>
-      <news:keywords>Government, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:37:49.535Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/king-charles-iii-wins-praise-for-deft-handling-of-trump-on-his-us-stat-1777743462989.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:37:42.989Z</news:publication_date>
-      <news:title>King Charles III wins praise for deft handling of Trump on his US stat</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:37:42.989Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/nasas-curiosity-and-perseverance-rovers-capture-sweeping-mars-panoram-1777743457464.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:37:37.464Z</news:publication_date>
-      <news:title>NASA's Curiosity and Perseverance rovers capture sweeping Mars panoram</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:37:37.464Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/heres-how-apples-folding-iphone-could-stand-apart-cnet-1777743450951.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:37:30.951Z</news:publication_date>
-      <news:title>Here's How Apple's Folding iPhone Could Stand Apart - CNET</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:37:30.951Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/thane-crime-branch-apprehends-fraudster-gold-and-cash-worth-crores-re-1777743445597.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:37:25.597Z</news:publication_date>
-      <news:title>Thane Crime Branch apprehends fraudster; gold and cash worth crores re</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:37:25.597Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/live-updates-trump-administration-says-war-in-iran-has-been-terminat-1777743440121.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:37:20.121Z</news:publication_date>
-      <news:title>Live updates: Trump administration says war in Iran has been 'terminat</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:37:20.121Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/superdry-cofounder-james-holder-convicted-of-rape-after-a-night-of-dri-1777743434743.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:37:14.743Z</news:publication_date>
-      <news:title>Superdry cofounder James Holder convicted of rape after a night of dri</news:title>
-      <news:keywords>Entertainment, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:37:14.743Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/man-jailed-after-being-charged-with-attempted-murder-in-stabbings-of-j-1777743428169.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:37:08.169Z</news:publication_date>
-      <news:title>Man jailed after being charged with attempted murder in stabbings of J</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:37:08.169Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/remains-recovered-near-tampa-bay-area-bridge-identified-as-second-miss-1777743422750.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:37:02.750Z</news:publication_date>
-      <news:title>Remains recovered near Tampa Bay area bridge identified as second miss</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:37:02.750Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/sialkot-weather-today-overcast-30c-1777743416122.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:36:56.122Z</news:publication_date>
-      <news:title>Sialkot Weather Today: Overcast, 30°C</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:36:56.122Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/the-36-most-anticipated-movies-of-summer-2026-rolling-stone-1777743409623.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:36:49.623Z</news:publication_date>
-      <news:title>The 36 Most Anticipated Movies of Summer 2026 - Rolling Stone</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:36:49.623Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/iranian-supreme-leader-says-the-only-place-americans-belong-in-the-gul-1777743404306.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-02T17:36:44.306Z</news:publication_date>
-      <news:title>Iranian supreme leader says the only place Americans belong in the Gul</news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-02T17:36:44.306Z</lastmod>
   </url>
 </urlset>
