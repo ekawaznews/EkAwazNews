@@ -4,6 +4,36 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://ekawaznews.github.io/news/shares-of-ebay-take-off-on-a-56-billion-buyout-bid-from-gamestops-ry-1778003074915.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T17:44:34.172Z</news:publication_date>
+      <news:title>Shares of eBay take off on a $56 billion buyout bid from GameStop’s Ry</news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-05T17:44:34.172Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ekawaznews.github.io/news/supreme-court-restores-access-to-abortion-pill-mifepristone-through-te-1778003054403.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T17:44:13.727Z</news:publication_date>
+      <news:title>Supreme Court restores access to abortion pill mifepristone through te</news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-05T17:44:13.727Z</lastmod>
+  </url>
+  <url>
     <loc>https://ekawaznews.github.io/news/2-us-service-members-missing-after-military-exercises-in-morocco-npr-1777982904432.html</loc>
     <news:news>
       <news:publication>
@@ -437,95 +467,5 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-04T04:00:06.685Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/court-restricts-abortion-access-across-the-us-by-blocking-the-mailing-1777823310313.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T15:48:30.313Z</news:publication_date>
-      <news:title>Court restricts abortion access across the US by blocking the mailing </news:title>
-      <news:keywords>Government, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T15:48:30.313Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/pakistans-first-zombie-horror-film-zombeid-sparks-nationwide-buzz-1777823301279.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T15:48:21.279Z</news:publication_date>
-      <news:title>Pakistan’s first zombie horror film ‘Zombeid’ sparks nationwide buzz</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T15:48:21.279Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/the-15th-anniversary-of-the-killing-of-osama-bin-laden-1777823294592.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T15:48:14.592Z</news:publication_date>
-      <news:title>The 15th Anniversary of the Killing of Osama bin Laden</news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T15:48:14.592Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/renewed-war-with-us-still-possible-says-iran-1777819827012.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T14:50:27.012Z</news:publication_date>
-      <news:title>Renewed war with US still possible, says Iran</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T14:50:27.012Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/abbottabad-weather-report-today-mist-temperature-32c-1777819818144.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T14:50:18.144Z</news:publication_date>
-      <news:title>Abbottabad Weather Report Today: Mist, Temperature 32°C</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T14:50:18.144Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/new-netflix-documentary-reexamines-winnie-mandelas-divisive-legacy-n-1777819798972.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T14:49:58.973Z</news:publication_date>
-      <news:title>New Netflix documentary reexamines Winnie Mandelas divisive legacy - N</news:title>
-      <news:keywords>Entertainment, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T14:49:58.973Z</lastmod>
   </url>
 </urlset>
