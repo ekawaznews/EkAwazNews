@@ -4,6 +4,21 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://ekawaznews.github.io/news/shooting-at-lake-near-oklahoma-city-injures-at-least-10-ap-news-1777965717767.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T07:21:57.420Z</news:publication_date>
+      <news:title>Shooting at lake near Oklahoma City injures at least 10 - AP News</news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-05T07:21:57.420Z</lastmod>
+  </url>
+  <url>
     <loc>https://ekawaznews.github.io/news/what-to-know-about-hantavirus-nbc-news-1777954790708.html</loc>
     <news:news>
       <news:publication>
@@ -572,170 +587,5 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-03T08:46:19.662Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/khalistani-elements-pose-national-security-threat-canadian-intel-repo-1777791608838.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T07:00:08.838Z</news:publication_date>
-      <news:title>Khalistani elements pose national security threat, Canadian Intel repo</news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T07:00:08.838Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/syria-raises-vaccination-coverage-to-81-as-campaigns-expand-nationwid-1777791598408.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T06:59:58.408Z</news:publication_date>
-      <news:title>Syria raises vaccination coverage to 81% as campaigns expand nationwid</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T06:59:58.408Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/clinical-chennai-down-mumbai-to-keep-playoff-hopes-alive-1777791589432.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T06:59:49.432Z</news:publication_date>
-      <news:title>Clinical Chennai down Mumbai to keep playoff hopes alive</news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T06:59:49.432Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/what-to-know-about-may-day-demonstrations-as-workers-face-rising-energ-1777788441413.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T06:07:21.414Z</news:publication_date>
-      <news:title>What to know about May Day demonstrations as workers face rising energ</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T06:07:21.414Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/strengthening-cybersecurity-integral-to-protecting-financial-infrastru-1777788432881.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T06:07:12.881Z</news:publication_date>
-      <news:title>Strengthening cybersecurity integral to protecting financial infrastru</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T06:07:12.881Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/police-dog-suspects-whcd-gunman-just-before-shooting-chilling-video-s-1777788426566.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T06:07:06.566Z</news:publication_date>
-      <news:title>Police dog suspects WHCD gunman just before shooting, chilling video s</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T06:07:06.566Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/microsofts-faster-less-annoying-windows-11-is-coming-into-focus-pc-1777788418024.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T06:06:58.024Z</news:publication_date>
-      <news:title>Microsoft’s faster, less annoying Windows 11 is coming into focus - PC</news:title>
-      <news:keywords>Weather, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T06:06:58.024Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/us-to-withdraw-thousands-of-troops-from-germany-dwcom-1777788405372.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T06:06:45.372Z</news:publication_date>
-      <news:title>US to withdraw thousands of troops from Germany - dw.com</news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T06:06:45.372Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/google-photos-new-ai-tool-will-help-you-picture-yourself-in-all-your-c-1777788399096.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T06:06:39.096Z</news:publication_date>
-      <news:title>Google Photos New AI Tool Will Help You Picture Yourself in All Your C</news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T06:06:39.096Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/jodie-sweetin-received-one-cent-residual-check-for-full-house-its-1777788383927.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T06:06:23.927Z</news:publication_date>
-      <news:title>Jodie Sweetin Received One-Cent Residual Check For ‘Full House’: “It’s</news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T06:06:23.927Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/jessica-simpson-pulls-out-of-grand-sierra-resort-show-in-reno-1777788367580.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T06:06:07.580Z</news:publication_date>
-      <news:title>Jessica Simpson pulls out of Grand Sierra Resort show in Reno</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T06:06:07.580Z</lastmod>
   </url>
 </urlset>
