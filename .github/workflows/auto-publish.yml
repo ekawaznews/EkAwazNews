@@ -1,0 +1,55 @@
+name: Ek Awaz Auto Publisher v8
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install packages
+        run: npm install
+
+      - name: Run Auto Publisher
+        env:
+          GEMINI_API_KEY:            ${{ secrets.GEMINI_API_KEY }}
+          NEWSAPI_KEY:               ${{ secrets.NEWSAPI_KEY }}
+          GNEWS_KEY:                 ${{ secrets.GNEWS_KEY }}
+          WEATHERAPI_KEY:            ${{ secrets.WEATHERAPI_KEY }}
+          CLOUDINARY_CLOUD:          ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          CLOUDINARY_PRESET:         ${{ secrets.CLOUDINARY_UPLOAD_PRESET }}
+          WATERMARK_URL:             ${{ secrets.WATERMARK_URL }}
+          FIREBASE_SERVICE_ACCOUNT:  ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: node autopost.js
+
+      - name: Generate Article Pages
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: node generate-pages.js
+
+      - name: Generate Sitemaps
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: node generate-sitemap.js
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name  "Ek Awaz Bot"
+          git config --global user.email "ekawaznews24@gmail.com"
+          git add news/ sitemap.xml news-sitemap.xml || true
+          git diff --staged --quiet || git commit -m "🗞️ Auto $(date +'%Y-%m-%d %H:%M') PKT"
+          git push origin main || echo "Nothing to push"
