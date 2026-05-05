@@ -4,6 +4,51 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://ekawaznews.github.io/news/who-is-cameron-oreilly-jemima-goldsmiths-fianc-with-23-billion-for-1777975778143.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T10:09:37.874Z</news:publication_date>
+      <news:title>Who is Cameron OReilly? Jemima Goldsmiths fiancé with $2.3 billion for</news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-05T10:09:37.874Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ekawaznews.github.io/news/what-to-know-about-hantavirus-the-illness-suspected-in-a-cruise-ship-1777975767938.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T10:09:27.307Z</news:publication_date>
+      <news:title>What to know about hantavirus, the illness suspected in a cruise ship </news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-05T10:09:27.307Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ekawaznews.github.io/news/golden-tempos-victory-in-kentucky-derby-most-viewed-on-record-averag-1777975758177.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T10:09:17.964Z</news:publication_date>
+      <news:title>Golden Tempo’s victory in Kentucky Derby most-viewed on record, averag</news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-05T10:09:17.964Z</lastmod>
+  </url>
+  <url>
     <loc>https://ekawaznews.github.io/news/shooting-at-lake-near-oklahoma-city-injures-at-least-10-ap-news-1777965717767.html</loc>
     <news:news>
       <news:publication>
@@ -497,95 +542,5 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-03T11:42:23.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/queen-elizabeth-ii-was-alien-to-emotional-responses-1777802731468.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T10:05:31.468Z</news:publication_date>
-      <news:title>Queen Elizabeth II was ‘alien’ to emotional responses</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T10:05:31.468Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/retired-cia-officer-reflects-on-the-intelligence-that-led-to-osama-bin-1777802716557.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T10:05:16.557Z</news:publication_date>
-      <news:title>Retired CIA officer reflects on the intelligence that led to Osama bin</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T10:05:16.557Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/tennessee-and-alabama-take-steps-to-redraw-house-maps-in-wake-of-supre-1777798012722.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T08:46:52.722Z</news:publication_date>
-      <news:title>Tennessee and Alabama take steps to redraw House maps in wake of Supre</news:title>
-      <news:keywords>Government, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T08:46:52.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/jensen-huang-ai-doom-ceos-have-god-complex-1777798005885.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T08:46:45.885Z</news:publication_date>
-      <news:title>Jensen Huang: AI doom CEOs have god complex</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T08:46:45.885Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/sumud-flotilla-activists-return-in-istanbul-after-israeli-detention-1777797996831.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T08:46:36.831Z</news:publication_date>
-      <news:title>Sumud flotilla activists return in Istanbul after Israeli detention</news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T08:46:36.831Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/how-us-navy-seals-killed-osama-bin-laden-in-pakistan-15-years-on-a-fu-1777797979662.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T08:46:19.662Z</news:publication_date>
-      <news:title>How US Navy SEALs killed Osama bin Laden in Pakistan, 15 years on a fu</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T08:46:19.662Z</lastmod>
   </url>
 </urlset>
