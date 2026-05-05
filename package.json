@@ -1,0 +1,19 @@
+{
+  "name": "ekawaz-auto-publisher",
+  "version": "8.0.0",
+  "type": "module",
+  "scripts": {
+    "start":    "node autopost.js",
+    "fix":      "node fix-posts.js",
+    "ticker":   "node update-ticker.js",
+    "generate": "node generate-pages.js",
+    "sitemap":  "node generate-sitemap.js"
+  },
+  "dependencies": {
+    "node-fetch":     "^3.3.2",
+    "firebase-admin": "^12.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
