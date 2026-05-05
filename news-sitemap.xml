@@ -4,6 +4,36 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://ekawaznews.github.io/news/what-to-know-about-hantavirus-nbc-news-1777954790708.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T04:19:49.813Z</news:publication_date>
+      <news:title>What to know about hantavirus - NBC News</news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-05T04:19:49.813Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ekawaznews.github.io/news/day-65-of-middle-east-conflict-trump-says-us-having-very-positive-d-1777954776706.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ek Awaz News</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T04:19:36.197Z</news:publication_date>
+      <news:title>Day 65 of Middle East conflict — Trump says US having ‘very positive d</news:title>
+      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
+    </news:news>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-05-05T04:19:36.197Z</lastmod>
+  </url>
+  <url>
     <loc>https://ekawaznews.github.io/news/preakness-has-16-possible-despite-lack-of-derby-runners-bloodhorse-1777939280404.html</loc>
     <news:news>
       <news:publication>
@@ -707,140 +737,5 @@
     <changefreq>hourly</changefreq>
     <priority>0.9</priority>
     <lastmod>2026-05-03T06:06:07.580Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/nicole-kidman-leaves-friends-worried-concerned-about-her-new-romance-1777776932362.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:55:32.362Z</news:publication_date>
-      <news:title>Nicole Kidman leaves friends worried concerned about her new romance</news:title>
-      <news:keywords>Entertainment, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:55:32.362Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/trump-says-iran-conflict-is-terminated-as-he-hits-congressional-dead-1777776926043.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:55:26.043Z</news:publication_date>
-      <news:title>Trump says Iran conflict is ‘terminated’ as he hits congressional dead</news:title>
-      <news:keywords>International, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:55:26.043Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/ban-vs-nz-3rd-t20i-bevon-jacobs-stars-as-new-zealand-bounce-back-to-1777776913480.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:55:13.480Z</news:publication_date>
-      <news:title>BAN vs NZ, 3rd T20I: Bevon Jacobs stars as New Zealand bounce back to </news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:55:13.480Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/princess-eugenie-is-pregnant-expecting-third-baby-1777776905926.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:55:05.926Z</news:publication_date>
-      <news:title>Princess Eugenie is pregnant, expecting third baby?</news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:55:05.926Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/official-weigh-in-results-ufc-perth-ufccom-1777776899668.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:54:59.668Z</news:publication_date>
-      <news:title>Official Weigh-In Results | UFC Perth - UFC.com</news:title>
-      <news:keywords>Sports, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:54:59.668Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/why-democrats-chose-iran-over-israel-1777776893411.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:54:53.411Z</news:publication_date>
-      <news:title>Why Democrats chose Iran over Israel</news:title>
-      <news:keywords>Politics, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:54:53.411Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/new-dna-based-therapy-can-help-lower-bad-cholesterol-without-statins-1777776873132.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:54:33.132Z</news:publication_date>
-      <news:title>New DNA-Based Therapy Can Help Lower Bad Cholesterol Without Statins, </news:title>
-      <news:keywords>National, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:54:33.132Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/ukraine-says-a-strike-hit-russian-black-sea-oil-terminal-in-tuapse-a-1777776863225.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:54:23.225Z</news:publication_date>
-      <news:title>Ukraine says a strike hit Russian Black Sea oil terminal in Tuapse - A</news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:54:23.225Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ekawaznews.github.io/news/chicken-gavin-newsom-fires-back-after-joe-rogan-called-him-a-fking-1777776856914.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ek Awaz News</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-03T02:54:16.915Z</news:publication_date>
-      <news:title>CHICKEN: Gavin Newsom Fires Back After Joe Rogan Called Him A F**king </news:title>
-      <news:keywords>Crime, Pakistan, Pakistani News, Ek Awaz News</news:keywords>
-    </news:news>
-    <changefreq>hourly</changefreq>
-    <priority>0.9</priority>
-    <lastmod>2026-05-03T02:54:16.915Z</lastmod>
   </url>
 </urlset>
