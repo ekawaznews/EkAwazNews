@@ -3,9 +3,9 @@
 // Auto cache version injected by GitHub Actions on every deploy
 // ============================================================
 
-// BUILD_TIMESTAMP is replaced by GitHub Actions workflow on every deploy
-// e.g. sed -i "s/BUILD_TIMESTAMP/$(date +%Y%m%d%H%M%S)/" sw.js
-const CACHE_NAME = 'ekawaz-BUILD_TIMESTAMP';
+// 20260526084538 is replaced by GitHub Actions workflow on every deploy
+// e.g. sed -i "s/20260526084538/$(date +%Y%m%d%H%M%S)/" sw.js
+const CACHE_NAME = 'ekawaz-20260526084538';
 const OFFLINE_URL = '/index.html';
 
 const PRECACHE_ASSETS = [
