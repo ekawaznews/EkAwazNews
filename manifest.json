@@ -1,0 +1,75 @@
+{
+  "id": "/",
+  "name": "Ek Awaz News | ایک آواز نیوز",
+  "short_name": "Ek Awaz",
+  "description": "Pakistan's most trusted news source — ایک آواز نیوز | The Voice of Pakistan",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#CC0000",
+  "lang": "en-PK",
+  "dir": "ltr",
+  "categories": ["news", "politics", "sports"],
+  "icons": [
+    {
+      "src": "/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/og-image.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Ek Awaz News Homepage"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Breaking News",
+      "short_name": "Breaking",
+      "description": "Latest breaking news",
+      "url": "/?cat=national",
+      "icons": [{ "src": "/logo-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Politics",
+      "short_name": "Politics",
+      "description": "Latest political news",
+      "url": "/?cat=politics",
+      "icons": [{ "src": "/logo-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Sports",
+      "short_name": "Sports",
+      "description": "Latest sports news",
+      "url": "/?cat=sports",
+      "icons": [{ "src": "/logo-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
