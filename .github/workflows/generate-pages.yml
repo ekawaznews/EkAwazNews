@@ -21,6 +21,9 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Install dependencies
+        run: npm install
+
       - name: Inject SW cache version (auto-invalidate on every deploy)
         run: sed -i "s/BUILD_TIMESTAMP/$(date +%Y%m%d%H%M%S)/" sw.js
 
